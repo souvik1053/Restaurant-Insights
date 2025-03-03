@@ -41,10 +41,3 @@ This project focuses on analyzing restaurant data from Zomato's Bangalore datase
 2. **SQL Analysis**: Use the provided SQL queries to extract insights.
 3. **Excel Visualization**: Load the cleaned data into Excel and create pivot charts.
 4. **Statistical Testing**: Conduct hypothesis testing using Python or Excel.
-
-## Contribution
-Feel free to contribute by refining the analysis, improving visualizations, or adding new statistical insights.
-
-## Contact
-For queries, reach out to [Your Name] at [Your Email].
-
