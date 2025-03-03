@@ -4,6 +4,8 @@
 
 This project focuses on analyzing restaurant data from Zomato's Bangalore dataset to derive insights on ratings, cuisine preferences, cost distribution, and more. The workflow includes data cleaning in Python, SQL queries for deeper exploration, Excel dashboards for visualization, and statistical analysis to validate key hypotheses.
 
+## Data :- [Link](https://drive.google.com/file/d/1mkUEBwF8QuH00wyrVoAaxzIqgdoOoeA4/view?usp=sharing)
+
 ## Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/2a999772-c51f-48c8-a3ba-836ea6489275)
