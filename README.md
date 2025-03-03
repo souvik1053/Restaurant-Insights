@@ -43,8 +43,6 @@ This project focuses on analyzing restaurant data from Zomato's Bangalore datase
 - Insights into how cost influences ratings.
 - Data-driven conclusions on the impact of multi-cuisine offerings on ratings.
 
-## How to Run the Project
-1. **Data Cleaning**: Run the Python script to preprocess the dataset.
-2. **SQL Analysis**: Use the provided SQL queries to extract insights.
-3. **Excel Visualization**: Load the cleaned data into Excel and create pivot charts.
-4. **Statistical Testing**: Conduct hypothesis testing using Python or Excel.
+## Conclusion
+
+This project provides valuable insights into Bangalore's restaurant scene by analyzing ratings, cuisine preferences, and cost trends. Data cleaning ensures accuracy, SQL queries uncover key patterns, and Excel visualizations highlight cost-to-rating relationships. Statistical analysis validates whether multi-cuisine restaurants, particularly North Indian + Chinese, receive higher ratings. These findings help understand customer preferences and factors influencing restaurant success.
